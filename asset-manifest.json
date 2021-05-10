@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/zurireactapp/static/css/main.4f5789f9.chunk.css",
+    "main.js": "/zurireactapp/static/js/main.da339574.chunk.js",
+    "main.js.map": "/zurireactapp/static/js/main.da339574.chunk.js.map",
+    "runtime-main.js": "/zurireactapp/static/js/runtime-main.aba1e4b3.js",
+    "runtime-main.js.map": "/zurireactapp/static/js/runtime-main.aba1e4b3.js.map",
+    "static/js/2.84a03a87.chunk.js": "/zurireactapp/static/js/2.84a03a87.chunk.js",
+    "static/js/2.84a03a87.chunk.js.map": "/zurireactapp/static/js/2.84a03a87.chunk.js.map",
+    "static/js/3.41525c28.chunk.js": "/zurireactapp/static/js/3.41525c28.chunk.js",
+    "static/js/3.41525c28.chunk.js.map": "/zurireactapp/static/js/3.41525c28.chunk.js.map",
+    "index.html": "/zurireactapp/index.html",
+    "static/css/main.4f5789f9.chunk.css.map": "/zurireactapp/static/css/main.4f5789f9.chunk.css.map",
+    "static/js/2.84a03a87.chunk.js.LICENSE.txt": "/zurireactapp/static/js/2.84a03a87.chunk.js.LICENSE.txt",
+    "static/media/illustration-mockups.264994a5.svg": "/zurireactapp/static/media/illustration-mockups.264994a5.svg",
+    "static/media/logo.2b3c07e4.svg": "/zurireactapp/static/media/logo.2b3c07e4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aba1e4b3.js",
+    "static/js/2.84a03a87.chunk.js",
+    "static/css/main.4f5789f9.chunk.css",
+    "static/js/main.da339574.chunk.js"
+  ]
+}
